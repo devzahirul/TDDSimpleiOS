@@ -1,4 +1,4 @@
 language: swift
 xcode_project: TDDSimpleiOS.xcodeproj # path to your xcodeproj folder
-xcode_scheme: TDDSimpleiOSTests
+xcode_scheme: TDDSimpleiOS
 xcode_destination: platform=iOS Simulator,OS=13.4,name=iPad Pro (9.7-inch)
